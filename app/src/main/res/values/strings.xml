@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShoppingAppProject</string>
+    <string name="app_enter_name">Enter Name</string>
+    <string name="app_enter_mobile">Enter Mobile</string>
+    <string name="app_enter_email">Enter Email</string>
+    <string name="app_enter_password">Enter Password</string>
+    <string name="registration">Registration</string>
+    <string name="login">Login</string>
+    <string name="create_account">Don\'t Have Account? Create Now!</string>
+</resources>
